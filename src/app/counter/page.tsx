@@ -4,7 +4,6 @@ export const metadata = {
     title: 'Counter',
     description: 'A simple counter app',
   };
-  
 
 export default function CounterPage() {
   return (
